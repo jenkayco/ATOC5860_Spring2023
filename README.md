@@ -27,9 +27,8 @@ monthly.ao.index.b50.current.ascii
 Application Lab #3 files in folder lab3
 ATOC5860_applicationlab3_eof_analysis_cosineweightingLAST_cartopy.ipynb - EOF/PCA of Observed Sea Surface Temperatures
 ATOC5860_applicationlab3_eigenfaces.ipynb - EOF/PCA of faces
-
-***Note: The data needed for lab3 are too big to upload to github***
-***Please download yourself from http://www.metoffice.gov.uk/hadobs/hadisst/data/download.html
+Note: The data needed for lab3 are too big to upload to github
+Please download yourself from http://www.metoffice.gov.uk/hadobs/hadisst/data/download.html
 or from https://o365coloradoedu-my.sharepoint.com/:u:/g/personal/jeka1927_colorado_edu/EfvHYjNoSs9GjWGUcqjP8A0BEuHUa5Cd0nUOOd3TuC5S3g?e=yifug4
 and https://o365coloradoedu-my.sharepoint.com/:u:/g/personal/jeka1927_colorado_edu/Ebd7h-2_OPZJv6IVlKEpcf4B0MAxqEN4VZqEu4FtVHhO4g?e=KC9quz
 
