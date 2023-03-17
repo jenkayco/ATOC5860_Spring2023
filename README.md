@@ -4,8 +4,7 @@ Prof. Jennifer E. Kay, University of Colorado, Jennifer.E.Kay@colorado.edu
 Last updated: February 22, 2023
 
 All code uses python environment atoc5860env2023clean.yml (last updated Feb. 20, 2023)
-Data >25 MB available here: 
-https://o365coloradoedu-my.sharepoint.com/:f:/g/personal/jeka1927_colorado_edu/Ejreu7Z76ZBDmnJwPi1K9J8BgcBisGcmGRwNKXRyPraCIw?e=aXoTfw
+Data >25 MB available here: https://drive.google.com/drive/folders/1RGzE_KYqqiIjYOL5GQyixSQ8U1xOGik-?usp=sharing
 
 0) Lecture code in folder lecture_code
 
