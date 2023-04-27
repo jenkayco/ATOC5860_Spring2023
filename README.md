@@ -1,9 +1,9 @@
 # ATOC5860_Spring2023
 code for ATOC5860 Objective Data Analysis Spring 2023
 Prof. Jennifer E. Kay, University of Colorado, Jennifer.E.Kay@colorado.edu
-Last updated: February 22, 2023
+Last updated: last updated April 27, 2023
 
-All code uses python environment atoc5860env2023clean.yml (last updated April 27, 2023)
+All code uses python environment atoc5860env2023clean.yml
 Data >25 MB available here: 
 https://o365coloradoedu-my.sharepoint.com/:f:/g/personal/jeka1927_colorado_edu/Ejreu7Z76ZBDmnJwPi1K9J8BgcBisGcmGRwNKXRyPraCIw?e=aXoTfw
 
