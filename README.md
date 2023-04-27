@@ -46,6 +46,7 @@ CESM1_LENS_Coupled_Control.cvdp_data.401-2200.nc - available from https://o365co
 
 6) Application Lab #6 files in folder lab6 (machine learning)
 ATOC5860_applicationlab6_cluster_mesa_data.ipynb - unsupervised machine learning (k-means clustering) of weather data from Boulder, Colorado
+ATOC5860_applicationlab6_cluster_mesa_data_3clusters.ipynb - like ATOC5860_applicationlab6_cluster_mesa_data.ipynb but uses 3 instead of 4 clusters
 NCAR_mesa_data_2016-2021_withmissing.csv - data needed for ATOC5860_applicationlab6_cluster_mesa_data.ipynb
 supervised.ipynb - same as ATOC5860_applicationlab6_supervised_ML.ipynb; but runs on google colabs (preferred)
 christman_2016.csv - data needed for ATOC5860_applicationlab6_supervised_ML.ipynb
