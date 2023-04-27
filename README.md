@@ -32,19 +32,19 @@ ATOC5860_applicationlab3_eigenfaces.ipynb - EOF/PCA of faces
 Note: The data needed for lab3 (HadISST_sst.nc, att_faces.npy) are too big to upload to github.  Available from link above.
 Data originally downloaded from http://www.metoffice.gov.uk/hadobs/hadisst/data/download.html
 
-4) Application Lab #4 files in folder lab4 (spectral analysis)
+Application Lab #4 files in folder lab4 (spectral analysis)
 ATOC5860_applicationlab4_fft_EPICA.ipynb - spectral analysis of ice core data over many glacial cycles
 edc3deuttemp2007.txt, edc3deuttemp2007_nohead.txt - ice core data
 ATOC5860_applicationlab4_fft_mesa.ipynb - spectral analysis of weather data from the NCAR Mesa Lab Boulder, Colorado
 mesa_data_2016-2021_withmissing.csv - weather data from NCAR Mesa Lab Boulder, Colorado
 
-5) Application Lab #5 files in folder lab5 (filtering)
+Application Lab #5 files in folder lab5 (filtering)
 ATOC5860_applicationlab5_check_python_convolution.ipynb - understand python functions used to smooth/filter in the time domain
 ATOC5860_applicationlab5_synthetic_data_with_filters.ipynb - filter analysis of synthetic data
 ATOC5860_applicationlab5_ENSO_mrbutterworth.ipynb - filter analysis of ENSO in a climate model
 CESM1_LENS_Coupled_Control.cvdp_data.401-2200.nc Available from link above.
 
-6) Application Lab #6 files in folder lab6 (machine learning)
+Application Lab #6 files in folder lab6 (machine learning)
 ATOC5860_applicationlab6_cluster_mesa_data.ipynb - unsupervised machine learning (k-means clustering) of weather data from Boulder, Colorado
 ATOC5860_applicationlab6_cluster_mesa_data_3clusters.ipynb - like ATOC5860_applicationlab6_cluster_mesa_data.ipynb but uses 3 instead of 4 clusters
 NCAR_mesa_data_2016-2021_withmissing.csv - data needed for ATOC5860_applicationlab6_cluster_mesa_data.ipynb
